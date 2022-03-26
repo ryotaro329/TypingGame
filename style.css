@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    padding: 50px;
+  
+    /* font */
+    font-family: serif;
+  }
+  
+  #main {
+    font-size: 150px;
+    letter-spacing: .1em;
+  }
+
+  #kana {
+    font-size: 30px;
+    letter-spacing: .1em;
+  }
+  
+  #result {
+    font-size: 50px;
+  }
